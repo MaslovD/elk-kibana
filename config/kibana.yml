@@ -3,5 +3,5 @@
 #
 server.name: kibana
 server.host: "0"
-server.basePath: "/elk"
+server.basePath: "/"
 elasticsearch.url: http://elasticsearch:9200
